@@ -16,4 +16,5 @@ mysql> CREATE TABLE GIT_ASSIGNMENT (
 
 ,status CHAR(1)      
 
+,email varchar(30)
 );
