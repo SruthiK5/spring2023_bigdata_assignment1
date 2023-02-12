@@ -12,6 +12,8 @@ mysql> CREATE TABLE GIT_ASSIGNMENT (
 
 ,active boolean     NOT NULL
 
-,comments   text        
+,comments   text  
+
+,status CHAR(1)      
 
 );
